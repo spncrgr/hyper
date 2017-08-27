@@ -13,10 +13,14 @@ yarn-error.log
 .hyper.js
 .hyper_plugins
 
+<<<<<<< HEAD
 # yarn files
 .yarnclean
 
 # IDE and plugin files
 .vs
+=======
+# IDE and plugin files
+>>>>>>> ignore file
 .vscode
 codealike*
