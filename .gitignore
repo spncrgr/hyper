@@ -21,6 +21,10 @@ yarn-error.log
 .vs
 =======
 # IDE and plugin files
+<<<<<<< HEAD
 >>>>>>> ignore file
 .vscode
+=======
+*.bak
+>>>>>>> adding vscode folder to my fork
 codealike*
