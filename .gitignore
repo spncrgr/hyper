@@ -13,18 +13,10 @@ yarn-error.log
 .hyper.js
 .hyper_plugins
 
-<<<<<<< HEAD
 # yarn files
 .yarnclean
 
 # IDE and plugin files
 .vs
-=======
-# IDE and plugin files
-<<<<<<< HEAD
->>>>>>> ignore file
-.vscode
-=======
 *.bak
->>>>>>> adding vscode folder to my fork
 codealike*
